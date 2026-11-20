@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use GOOSE-OCC or its VisibilityOcc implementation, please cite the accompanying manuscript and dataset record."
+title: "GOOSE-OCC"
+type: software
+version: 1.0.0
+date-released: 2026-07-22
+authors:
+  - family-names: Zhao
+    given-names: Kai
+    email: kzhao94@foxmail.com
+  - family-names: Xu
+    given-names: Youchun
+    email: xu56419@126.com
+repository-code: "https://github.com/kzhao94/GOOSE-OCC"
+license: Apache-2.0

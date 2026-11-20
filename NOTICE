@@ -1,0 +1,11 @@
+GOOSE-OCC public source release
+
+This repository is adapted from the SparseOcc codebase. See LICENSE for the
+Apache License 2.0 terms. Applicable upstream attribution is retained, and
+third-party dependencies remain subject to their own licences.
+
+GOOSE-OCC is a derivative research dataset distributed separately under
+Creative Commons Attribution-ShareAlike 4.0 International. The original GOOSE
+dataset is available from https://goose-dataset.de/ and must be cited and used
+under its own terms. This source archive does not grant rights to dataset,
+model-weight, or third-party software artifacts that are not included.
